@@ -1,6 +1,8 @@
-# Tiny Keyboard Games: Alphabet Learning Game
+# Tiny Keyboard Games: Toddler learning games
 
-## Description
+## Game 1 Alphabet Learning Game
+
+### Description
 This is a simple educational game built with Pygame to help young children (like toddlers) learn the letters of the alphabet and basic keyboard skills. The game displays each letter full-screen, plays its corresponding sound on a loop with a 1-second gap, and provides fun visual and audio feedback when the correct key is pressed:
 - The background turns green for 3 seconds.
 - The letter bounces.
@@ -8,7 +10,7 @@ This is a simple educational game built with Pygame to help young children (like
 
 The game tracks a score and shows it at the end. It's designed to be immersive and engaging for kids around 3 years old.
 
-## Installation
+### Installation
 1. Ensure you have Python 3 installed (tested on Python 3.10+).
 2. Install Pygame:  
    ```
@@ -17,7 +19,7 @@ The game tracks a score and shows it at the end. It's designed to be immersive a
 3. Download the alphabet sound files from [Sound City Reading](https://www.soundcityreading.net/individual-alphabet-sounds---abc-order.html) and place them in the project directory. The files should be named `alphasounds-a.mp3`, `alphasounds-b.mp3`, ..., `alphasounds-z.mp3`.
 4. (Optional) Add a success sound file named `correct.wav` (e.g., a free "ding" sound from online resources like freesound.org).
 
-## Usage
+### Usage
 Run the game with:  
 ```
 python game.py
