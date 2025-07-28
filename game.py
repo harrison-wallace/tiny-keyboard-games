@@ -15,7 +15,7 @@ score = 0
 correct_sound = pygame.mixer.Sound('correct.wav')
 
 # Load alphabet sounds (assuming files like 'alphasounds-a.mp3' to 'alphasounds-z.mp3' exist in the directory)
-alphabet_sounds = {letter.lower(): pygame.mixer.Sound(f"alphasounds-{letter.lower()}.mp3") for letter in letters}
+alphabet_sounds = {letter.lower(): pygame.mixer.Sound(f"phonics/alphasounds-{letter.lower()}.mp3") for letter in letters}
 
 def animate_bounce(letter):
     for i in range(10):  # 10 frames of bounce animation

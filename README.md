@@ -29,7 +29,6 @@ python game.py
 ## Credits
 - **Alphabet Sounds**: Provided by [Sound City Reading](https://www.soundcityreading.net/individual-alphabet-sounds---abc-order.html). These materials are copyrighted by Kathryn J. Davis, but permission is granted for parents, teachers, and tutors to use them for educational purposes with their students. Thank you to Sound City Reading for making these resources freely available!
 
-- **Game Development Assistance**: This project was developed with help from Grok AI by xAI.
 
 ## License
 This code is released under the MIT License. Feel free to modify and expand it for personal use.
