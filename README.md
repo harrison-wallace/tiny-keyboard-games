@@ -1,8 +1,15 @@
-# Tiny Keyboard Games: Toddler learning games
+# tinyeducation
 
-## Game 1 Alphabet Learning Game
+## About 
 
-### Description
+In this repo I will be storing resources to help teach children as I embark on the journey of learning myself to teach my children.
+
+
+## Games: Toddler learning games
+
+### Game 1 Alphabet Learning Game
+
+#### Description
 This is a simple educational game built with Pygame to help young children (like toddlers) learn the letters of the alphabet and basic keyboard skills. The game displays each letter full-screen, plays its corresponding sound on a loop with a 1-second gap, and provides fun visual and audio feedback when the correct key is pressed:
 - The background turns green for 3 seconds.
 - The letter bounces.
