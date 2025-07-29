@@ -37,4 +37,4 @@ python game.py
 
 ## Credits
 - **Alphabet Sounds**: Provided by [Sound City Reading](https://www.soundcityreading.net/individual-alphabet-sounds---abc-order.html). These materials are copyrighted by Kathryn J. Davis, but permission is granted for parents, teachers, and tutors to use them for educational purposes with their students. Thank you to Sound City Reading for making these resources freely available!
-- **Font**: [School](https://www.dafont.com/school-5.font) dafont
+- **Font**: [School Yard](https://www.dafont.com/school-yard.font) dafont
